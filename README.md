@@ -1,6 +1,6 @@
 # Ethics 
 
-Ethics that influences our PSD system
+Ethics that influence our PSD system
 
 # License
 
